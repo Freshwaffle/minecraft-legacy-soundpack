@@ -2,7 +2,7 @@
 
 **Authentic Legacy Console Edition music**  ripped directly from the leaked console source and ported for PC use.
 
-This pack contains the original music tracks as they existed in **Minecraft Legacy Console Edition** (Xbox 360, PS3, Wii U, Switch, etc.) before many were changed, removed, or renamed in later versions.
+This pack contains the original music tracks as they existed in **Minecraft Legacy Console Edition** (Xbox 360, PS3, Wii U, Switch, etc.) before many were changed, removed, or renamed in later versions. Such as "Where Are We Now" being renamed to "Wait" on November 16th, 2012.
 
 ### What's Included
 
