@@ -6,7 +6,7 @@ This pack contains the original music tracks as they existed in **Minecraft Lega
 
 ### What's Included
 
-##Game Music
+###Game Music
 
 **calm1 → calm3**
 - calm1.ogg → Minecraft
@@ -52,7 +52,19 @@ This pack contains the original music tracks as they existed in **Minecraft Lega
 - the_end_dragon_alive.ogg → First half of "The End" (Dragon fight)
 - the_end_end.ogg → Second half of "The End" (credits)
 
-##Music Discs
+###Music Discs
+- 11.ogg → 11
+- 13.ogg → 13
+- blocks.ogg → Blocks
+- cat.ogg → Cat
+- chirp.ogg → Chirp
+- far.ogg → Far
+- mall.ogg → Mall
+- mellohi.ogg → Mellohi
+- stal.ogg → Stal
+- strad.ogg → Strad
+- ward.ogg → Ward
+- where_are_we_now.ogg → Wait (originally "where are we now")
 
 All .ogg files taken directly from the Legacy Console leak.
 
